@@ -1,0 +1,146 @@
+.login-form {
+    box-shadow: 0px 10px 0px 5px rgba(255, 224, 179, 1);
+    width: 500px;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 0 auto;
+    margin-top: 200px;
+
+}
+
+.form-title {
+
+    display: flex;
+    justify-content: center;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+
+    color: #2A414F;
+
+}
+
+.input-group {
+    width: 415px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+
+.input-group label {
+    width: 41px;
+    height: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+
+    color: #2A414F;
+
+}
+
+.input-group input {
+    width: 415px;
+    height: 55px;
+    left: 526px;
+    top: 346px;
+
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+}
+
+.form-submit {
+    width: 415px;
+    margin: 0 auto;
+    height: 55px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 5px;
+    background: rgba(255, 153, 0, 0.3);
+    cursor: pointer;
+    
+
+    color: #0E161A;
+
+}
+
+.login-form p {
+    text-align: center;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: 0.0025em;
+
+    color: #2A414F;
+
+}
+
+.form-link {
+    text-decoration: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+
+    letter-spacing: 0.0025em;
+    color: rgba(255, 153, 0, 1);
+}
+
+.from-line {
+
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+
+
+}
+
+.left-line {
+    width: 100px;
+    line-height: 50px;
+    margin-right: 10px;
+}
+
+.right-line {
+    width: 100px;
+    margin-left: 10px;
+}
+.form-button{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  
+}
+
+.google-button {
+    margin: 0 auto;
+    width: 415px;
+    height: 55px;
+    border: 1px solid #2A414F;
+    background-color: white;
+    
+}
+.loading{
+    
+    display: flex;
+    justify-content: left;
+}
